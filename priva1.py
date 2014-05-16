@@ -7,3 +7,6 @@ def set(m):
 
 def sethola():
     print('hola')
+
+def setadeu():
+    print('adeu')

@@ -5,8 +5,5 @@ def set(m):
     print(m)
 
 
-def sethola():
-    print('hola')
-
 def setadeu():
     print('adeu')
